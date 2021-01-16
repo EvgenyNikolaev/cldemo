@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Название аппликации</string>
+    <string name="title_home">На главную</string>
+    <string name="title_dashboard">Дешборд</string>
+    <string name="title_notifications">Нотификации</string>
 </resources>
