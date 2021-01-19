@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Название аппликации (релиз)</string>
+    <string name="app_name">demo</string>
     <string name="title_home">На главную</string>
     <string name="title_dashboard">Дешборд</string>
     <string name="title_notifications">Нотификации</string>
     <string name="test_value">Привет</string>
     <string name="test_value_two">Тест релиз</string>
+    <string name="test_value_three">Привет мир</string>
 </resources>
